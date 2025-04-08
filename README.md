@@ -5,10 +5,10 @@
   </a>
 </div>
 
-<h3 align="center">I'm currently working as a Full Stack Developer with a strong focus on Backend development.</h3>
+<h3 align="center">I'm a software engineer 👨‍💻 who is passionate about Backend and Full Stack Development</h3>
 
-- 💻 I’m currently working on Full Stack Developer with a Strong focus on a Backend
-
+- 💻 I'm currently working as a Full Stack Developer with a strong focus on Backend development.
+- 
 - 👨‍💻 Pronouns: he/him
 
 - 📫 How to reach me **supri.adify@gmail.com**
